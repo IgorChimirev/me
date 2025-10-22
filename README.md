@@ -49,7 +49,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSMO&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
 
-## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=OSMO&theme=darkhub)
 
 
