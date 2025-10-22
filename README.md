@@ -50,6 +50,12 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorChimirev&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorChimirev&theme=dark)
+
+## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IgorChimirev&theme=darkhub)
+
 
 
 
