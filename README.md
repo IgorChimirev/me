@@ -1,4 +1,3 @@
-## Hello there, I'm Roman 👋
 
 ## 📫 Contact Me
 - CV: [My CV](https://drive.google.com/file/d/1qbfzPRvZ3If6BYz9QvHc6BVyhcWdBB-T/view?usp=sharing)
