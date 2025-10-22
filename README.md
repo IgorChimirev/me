@@ -43,7 +43,7 @@
 ### Additional Technologies:
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
+![JOOQ](https://img.shields.io/badge/-jOOQ-FF0000?style=flat-square&logo=java&logoColor=white)
 ## 📊 GitHub Profile Summary
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorChimirev&theme=dracula)
 
