@@ -1,6 +1,8 @@
 
+Second-year student at ITMO in the Faculty of Software Engineering and Computer Systems, specializing in neurotechnology and programming, like learning something new and applying my knowledge in practice.
+
 ## 📫 Contact Me
-- CV: [My CV](https://drive.google.com/file/d/1qbfzPRvZ3If6BYz9QvHc6BVyhcWdBB-T/view?usp=sharing)
+- CV: [My CV]()
 - Telegram: @ooosmooo
 - Email: igor.chimirev@gmail.com
 
