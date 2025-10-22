@@ -30,8 +30,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Testing DB:
-![apachecassandra](https://img.shields.io/badge/-Apache%2520Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white
-https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![MySQL](https://https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
